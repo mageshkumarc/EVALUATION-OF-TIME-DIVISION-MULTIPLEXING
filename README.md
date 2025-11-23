@@ -32,7 +32,7 @@ Computer with Scilab installed
 
 ```
 t = linspace(0, 1, 1000);
-fs = 1000; 
+fs = 84300; 
 
 freqs = [4, 8, 12, 16, 20, 24];
 
